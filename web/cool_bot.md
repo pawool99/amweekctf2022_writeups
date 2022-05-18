@@ -15,4 +15,4 @@ If we access the path specified in the file we get the following:
 
 ![image](static/9.png)
 
-Flag: `AM{w3lc0me_t0_amw33k}`
+Flag: `AM{Rami_1s_pr3tty_c00l_1_th1nk}`
