@@ -9,3 +9,5 @@ This challange is based on the "Bacon Cipher", if we substitute the 0's and 1's 
 Then, if we use a online Bacon Cipher decoder we get the following:
 
 ![image](static/1.png)
+
+Flag: `AM{amweek}`
