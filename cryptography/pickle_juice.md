@@ -2,7 +2,7 @@
 ## 100 points
 ### "We managed to intercept communication between **pr0phet** and his hacker friends. However it is obfuscated using something. We just can't figure out what it is. Maybe you can help us find the flag?"
 
-This challange contains a `data` file which holds a pickled (serialized) python object. To solve the challangewe need to unpickle the object, using the `pickle.load(file, *, fix_imports=True, encoding='ASCII', errors='strict')` method.
+This challange contains a `data` file which holds a pickled (serialized) python object. To solve the challange we need to unpickle the object, using the `pickle.load(file, *, fix_imports=True, encoding='ASCII', errors='strict')` method.
 
 Example script:
 ```
